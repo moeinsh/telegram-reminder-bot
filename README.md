@@ -78,3 +78,9 @@ showing the store format (its chat ids are placeholders).
 - `selftest.py` — 23-check self-test, token-free
 - `reminders.json` — sample store showing the JSON format
 - `card-telegram.png` — preview card
+
+---
+
+**Author:** Moein Shahidi — [@moeinsh](https://github.com/moeinsh)
+
+© 2026 Moein Shahidi. Released under the MIT License.
